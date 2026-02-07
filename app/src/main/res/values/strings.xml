@@ -1,3 +1,158 @@
 <resources>
-    <string name="app_name">lab3</string>
+    <string name="app_name" translatable="false">lab3</string>
+
+    <string name="main_text">30 movies for every day</string>
+
+    <string name="day1">The Godfather</string>
+    <string name="day1_desc_full">An epic crime saga about the Corleone family, Italian immigrants who become one of the most powerful mafia dynasties in postwar America. The film follows the transfer of power from aging don Vito Corleone to his reluctant son Michael.</string>
+    <string name="day1_desc_short">Epic saga of the Corleone mafia family. A cinema classic.</string>
+
+    <string name="day2">The Shawshank Redemption</string>
+    <string name="day2_desc_full">A drama about banker Andy Dufresne, wrongly convicted of murdering his wife and sentenced to life in Shawshank State Penitentiary. A story of the indomitable power of the human spirit, friendship, and patience.</string>
+    <string name="day2_desc_short">A story of hope and friendship within prison walls. The #1 rated film.</string>
+
+    <string name="day3">Pulp Fiction</string>
+    <string name="day3_desc_full">A nonlinear, pulp magazine-styled narrative intertwining several criminal plots in Los Angeles. Gangsters, a boxer, amateur robbers, and their philosophical dialogues.</string>
+    <string name="day3_desc_short">Quentin Tarantino\'s nonlinear cult story of gangsters. A style icon.</string>
+
+    <string name="day4">Back to the Future</string>
+    <string name="day4_desc_full">Teenager Marty McFly is accidentally sent 30 years into the past in a time-traveling DeLorean invented by eccentric scientist Doc Brown. Stranded in 1955, he must ensure his own existence.</string>
+    <string name="day4_desc_short">A cult adventure about time travel in a DeLorean.</string>
+
+    <string name="day5">The Dark Knight</string>
+    <string name="day5_desc_full">Batman, James Gordon, and Harvey Dent fight crime in Gotham. Their plans unravel with the arrival of a chaotic criminal psychopath known as the Joker.</string>
+    <string name="day5_desc_short">Epic superhero thriller about Batman and the Joker.</string>
+
+    <string name="day6">Forrest Gump</string>
+    <string name="day6_desc_full">Simple and kind-hearted Forrest Gump, with a low IQ, inadvertently becomes a witness to and participant in key events of American history in the latter half of the 20th century.</string>
+    <string name="day6_desc_short">Touching story of a simple man who became part of America\'s great history.</string>
+
+    <string name="day7">2001 A Space Odyssey</string>
+    <string name="day7_desc_full">A philosophical epic about the origins and future of humanity, from the dawn of man to a journey to Jupiter in search of extraterrestrial intelligence.</string>
+    <string name="day7_desc_short">Visual and philosophical poem about human evolution and AI.</string>
+
+    <string name="day8">Amelie</string>
+    <string name="day8_desc_full">A whimsical story about shy Parisian waitress Amélie Poulain who, after finding a hidden treasure, decides to anonymously change the lives of those around her for the better.</string>
+    <string name="day8_desc_short">A charming tale of a Parisian woman changing people\'s lives for the better.</string>
+
+    <string name="day9">Your Name.</string>
+    <string name="day9_desc_full">High schoolers Mitsuha and Taki begin mysteriously swapping bodies in their dreams. A story of fate, memory, and an incredible attempt to find each other.</string>
+    <string name="day9_desc_short">Beautiful anime melodrama about a boy and girl swapping bodies.</string>
+
+    <string name="day10">Life Is Beautiful</string>
+    <string name="day10_desc_full">In Nazi-occupied Italy, Guido uses his imagination to shield his son from the horrors of a concentration camp by pretending it\'s all an elaborate game.</string>
+    <string name="day10_desc_short">Touching tragicomedy about a father protecting his son in a camp through play.</string>
+
+    <string name="day11">The Matrix</string>
+    <string name="day11_desc_full">A hacker known as Neo discovers the shocking truth: the real world is an illusion created by all-powerful machines to subdue humanity.</string>
+    <string name="day11_desc_short">Revolutionary sci-fi action film about reality as a computer simulation.</string>
+
+    <string name="day12">City of God</string>
+    <string name="day12_desc_full">A brutal, energetic crime saga based on true events, following the rise of organized crime in the Brazilian favela "City of God" from the 1960s to the 1980s.</string>
+    <string name="day12_desc_short">Hard-hitting and dynamic crime saga about life in the Rio favelas.</string>
+
+    <string name="day13">The Lord of the Rings: The Fellowship of the Ring</string>
+    <string name="day13_desc_full">The first part of the epic trilogy about hobbit Frodo Baggins, who is tasked with destroying the One Ring in the fires of Mount Doom to save Middle-earth from the Dark Lord Sauron.</string>
+    <string name="day13_desc_short">The beginning of a grand fantasy journey through Tolkien\'s world.</string>
+
+    <string name="day14">The Big Lebowski</string>
+    <string name="day14_desc_full">"The Dude" Lebowski, an unemployed hippie and bowling enthusiast, is drawn into an absurd kidnapping case when he is mistaken for a millionaire with the same name.</string>
+    <string name="day14_desc_short">A cult absurdist comedy about "The Dude" who is constantly mistaken.</string>
+
+    <string name="day15">Whiplash</string>
+    <string name="day15_desc_full">A young and ambitious jazz drummer enrolls in a prestigious conservatory where he falls under the wing of a genius but tyrannical instructor.</string>
+    <string name="day15_desc_short">Intense drama about a drummer and his tyrannical teacher. Shot like a thriller.</string>
+
+    <string name="day16">Inception</string>
+    <string name="day16_desc_full">Dom Cobb is a thief who steals secrets from people\'s dreams. He is offered a chance to have his criminal history erased if he can perform the impossible: inception, planting an idea into someone\'s subconscious.</string>
+    <string name="day16_desc_short">Mind-bending action about infiltrating dreams and the architecture of the subconscious.</string>
+
+    <string name="day17">Fight Club</string>
+    <string name="day17_desc_full">An insomniac office worker forms an underground fight club with a mysterious soap salesman, which evolves into something much more radical.</string>
+    <string name="day17_desc_short">Cult provocative drama about identity crisis and anarchy.</string>
+
+    <string name="day18">Inglourious Basterds</string>
+    <string name="day18_desc_full">In Nazi-occupied France, a group of Jewish-American soldiers and a French Jewish cinema owner plot separate plans to assassinate the Nazi leadership.</string>
+    <string name="day18_desc_short">Stylized alternate history of WWII from Tarantino.</string>
+
+    <string name="day19">Dunkirk</string>
+    <string name="day19_desc_full">Allied soldiers from Belgium, Britain, and France are surrounded by the German army on the beaches of Dunkirk during a fierce battle in World War II.</string>
+    <string name="day19_desc_short">Immersive war film about the miracle of evacuation. Minimal dialogue, maximum tension.</string>
+
+    <string name="day20">Parasite</string>
+    <string name="day20_desc_full">A poor family, the Kims, cunningly get jobs working for the wealthy Park family. Their fragile paradise is shattered when a shocking secret is revealed.</string>
+    <string name="day20_desc_short">Oscar-winning satire about the clash between a poor and a rich family. Thriller-comedy-drama.</string>
+
+    <string name="day21">The Grand Budapest Hotel</string>
+    <string name="day21_desc_full">The adventures of Gustave H, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.</string>
+    <string name="day21_desc_short">A visual feast and comedy about the adventures of a hotel concierge in 1930s Europe.</string>
+
+    <string name="day22">Mad Max: Fury Road</string>
+    <string name="day22_desc_full">In a post-apocalyptic wasteland, Max teams up with a woman named Furiosa to flee from a tyrant and his army in a war rig, fleeing across the desert.</string>
+    <string name="day22_desc_short">A insane two-hour action chase in a post-apocalyptic wasteland.</string>
+
+    <string name="day23">Schindler\'s List</string>
+    <string name="day23_desc_full">The true story of German industrialist Oskar Schindler, who saved over a thousand Polish Jews from the Holocaust during World War II by employing them in his factories.</string>
+    <string name="day23_desc_short">Powerful black-and-white drama about the Holocaust and the man who saved over a thousand lives.</string>
+
+    <string name="day24">Rashomon</string>
+    <string name="day24_desc_full">A heinous crime and its aftermath are recalled from four different and contradictory points of view. A classic film about the subjectivity of truth and the nature of lies.</string>
+    <string name="day24_desc_short">A masterpiece about the subjectivity of truth. One crime, four different versions.</string>
+
+    <string name="day25">The Social Network</string>
+    <string name="day25_desc_full">The story of the creation of the social networking site Facebook, the lawsuits that followed, and the impact it had on the lives of the founders.</string>
+    <string name="day25_desc_short">Sharp, fast-paced biographical film about the creation of Facebook and legal battles.</string>
+
+    <string name="day26">Blade Runner</string>
+    <string name="day26_desc_full">In a dystopian future Los Angeles, a blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.</string>
+    <string name="day26_desc_short">The definitive cyberpunk noir about the future, androids, and human nature.</string>
+
+    <string name="day27">Soul</string>
+    <string name="day27_desc_full">A middle-school music teacher gets the chance of a lifetime to play at the best jazz club in town. But one misstep lands him in a fantastical place where he must find his way back to life.</string>
+    <string name="day27_desc_short">Animated masterpiece about finding life\'s purpose and the joy in small things.</string>
+
+    <string name="day28">Birdman</string>
+    <string name="day28_desc_full">A washed-up actor, famous for playing a superhero, struggles to mount a Broadway play to reclaim his past glory.</string>
+    <string name="day28_desc_short">Ironic drama about a former superhero actor, shot in "one take".</string>
+
+    <string name="day29">The Lion King</string>
+    <string name="day29_desc_full">A young lion prince flees his kingdom after the murder of his father, only to learn the true meaning of responsibility and bravery so he can reclaim his throne.</string>
+    <string name="day29_desc_short">The greatest animated Disney musical. Shakespeare in the world of the savannah.</string>
+
+    <string name="day30">What Remains of Edith Finch</string>
+    <string name="day30_desc_full">Edith Finch returns to her strange, abandoned family home on an island to explore the history of her family, all members of which are said to have died due to a curse.</string>
+    <string name="day30_desc_short">(Interactive Experience) A collection of touching and magical stories about a strange family.</string>
+
+
+    <string name="day1_day">Day 1</string>
+    <string name="day2_day">Day 2</string>
+    <string name="day3_day">Day 3</string>
+    <string name="day4_day">Day 4</string>
+    <string name="day5_day">Day 5</string>
+    <string name="day6_day">Day 6</string>
+    <string name="day7_day">Day 7</string>
+    <string name="day8_day">Day 8</string>
+    <string name="day9_day">Day 9</string>
+    <string name="day10_day">Day 10</string>
+    <string name="day11_day">Day 11</string>
+    <string name="day12_day">Day 12</string>
+    <string name="day13_day">Day 13</string>
+    <string name="day14_day">Day 14</string>
+    <string name="day15_day">Day 15</string>
+    <string name="day16_day">Day 16</string>
+    <string name="day17_day">Day 17</string>
+    <string name="day18_day">Day 18</string>
+    <string name="day19_day">Day 19</string>
+    <string name="day20_day">Day 20</string>
+    <string name="day21_day">Day 21</string>
+    <string name="day22_day">Day 22</string>
+    <string name="day23_day">Day 23</string>
+    <string name="day24_day">Day 24</string>
+    <string name="day25_day">Day 25</string>
+    <string name="day26_day">Day 26</string>
+    <string name="day27_day">Day 27</string>
+    <string name="day28_day">Day 28</string>
+    <string name="day29_day">Day 29</string>
+    <string name="day30_day">Day 30</string>
+
 </resources>
