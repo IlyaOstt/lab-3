@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">24dp</dimen>
+    <dimen name="padding_xxlarge">32dp</dimen>
+    <dimen name="padding_xxxlarge">64dp</dimen>
+
+    <dimen name="corner_medium">8dp</dimen>
+
+    <dimen name="pic_hight">200dp</dimen>
+
+    <dimen name="pic_xhight">400dp</dimen>
+    <dimen name="pic_lhight">350dp</dimen>
+    <dimen name="pic_width">200dp</dimen>
+    <dimen name="pic_lwidth">350dp</dimen>
+    <dimen name="pic_lwidth_teblet">600dp</dimen>
+
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+
+    <dimen name="text_size_small_teblet">24sp</dimen>
+    <dimen name="text_size_medium_teblet">28sp</dimen>
+    <dimen name="text_size_large_teblet">32sp</dimen>
+
+    <dimen name="text_width">200dp</dimen>
+    <dimen name="text_hight">34dp</dimen>
+    <dimen name="text_lhight">350dp</dimen>
+
+
+</resources>

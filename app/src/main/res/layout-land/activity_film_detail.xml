@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray">
+
+    <ImageView
+        android:id="@+id/iv_detail"
+        android:layout_width="@dimen/pic_lwidth"
+        android:layout_height="@dimen/pic_lwidth"
+        android:layout_marginStart="@dimen/padding_xlarge"
+        android:layout_marginTop="@dimen/padding_xlarge"
+        android:layout_marginBottom="@dimen/padding_xlarge"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.427"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/tv_detail_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/padding_xxxlarge"
+        android:layout_marginEnd="@dimen/padding_xxxlarge"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_detail_desc"
+        android:layout_width="@dimen/pic_lhight"
+        android:layout_height="@dimen/text_width"
+        android:layout_marginStart="@dimen/padding_xxlarge"
+        android:layout_marginEnd="@dimen/padding_xxlarge"
+        android:layout_marginBottom="@dimen/padding_xxlarge"
+        android:text="TextView"
+        android:textSize="@dimen/text_size_small"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/iv_detail" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
